@@ -1,0 +1,4 @@
+UserId,Predicted_I1_Part1,Predicted_I2_Part1,Predicted_I1_PCA,Predicted_I2_PCA,I1_Diff,I2_Diff
+51,3.9645,3.9645,0.5,0.5,3.4645,3.4645
+1,4.2,4.2,0.5,0.5,3.7,3.7
+500,3.9645,3.9645,0.5,0.5,3.4645,3.4645

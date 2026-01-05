@@ -1,0 +1,8 @@
+Metric,Value
+Total Ratings in Sample,"1,500,000"
+Unique Users,"10,025"
+Unique Movies,"24,331"
+Potential Matrix Size,"243,918,275"
+Sparsity (%),99.385040%
+Average Ratings per User,149.63
+Average Ratings per Movie,61.65
